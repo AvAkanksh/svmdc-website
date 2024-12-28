@@ -196,11 +196,11 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .bg-primary-dark {
-  background: #152440;
+  background: rgb(21.25, 36.25, 63.75);
 }
 
 .bg-primary-darker {
-  background: #090f1a;
+  background: rgb(8.5, 14.5, 25.5);
 }
 
 .bg-dark {
@@ -477,7 +477,7 @@ a:focus {
     transform: translateY(10px);
   }
   .navigation .dropleft .dropdown-menu,
-.navigation .dropright .dropdown-menu {
+  .navigation .dropright .dropdown-menu {
     margin-top: -5px;
   }
   .navigation .dropdown:hover > .dropdown-menu {
