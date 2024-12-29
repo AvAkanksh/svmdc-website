@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "gulp",
     "build": "gulp build",
-    "deploy": "gh-pages -d source"
+    "deploy": "gh-pages -d theme"
   },
   "dependencies": {
     "browser-sync": "^2.27.10",
