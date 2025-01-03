@@ -769,10 +769,10 @@ a:focus {
   position: relative;
   box-shadow: 0px 8px 16px 0px rgba(200, 183, 255, 0.2);
 }
-.doctor-inner-box .doctor-profile .doctor-img {
+.doctor-inner-box .doctor-profile .service-img {
   transition: all 0.35s ease;
 }
-.doctor-inner-box .doctor-profile .doctor-img:hover {
+.doctor-inner-box .doctor-profile .service-img:hover {
   transform: scale(1.1);
 }
 
